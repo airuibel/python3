@@ -2,6 +2,10 @@
 import pandas as pd
 import numpy  as np
 
+'''
+分布
+'''
+
 # 控制台输出
 pd.set_option('display.max_rows', None)
 pd.set_option('display.max_colwidth', 5000)
