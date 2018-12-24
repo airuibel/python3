@@ -3,7 +3,7 @@ import pandas as pd
 import numpy  as np
 
 '''
-分布
+分布hahahah
 '''
 
 # 控制台输出
