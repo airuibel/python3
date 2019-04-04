@@ -102,3 +102,4 @@ plt.show()
 
 # 可以加载模型：
 # tar = xgb.Booster(model_file='xgb.model')
+
